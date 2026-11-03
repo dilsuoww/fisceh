@@ -1,2 +1,0 @@
-# fisceh
-lokoada.vercel.app
